@@ -1,6 +1,6 @@
 = FfcrmAwesome
 
-This awesome project shows you how to create plugins for "FatFreeCRM":http://www.fatfreecrm.com
+This awesome project shows you how to create plugins for FatFreeCRM (http://www.fatfreecrm.com).
 
 See http://guides.fatfreecrm.com/Creating-a-plugin.html for the full tutorial.
 
