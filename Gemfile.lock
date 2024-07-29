@@ -197,7 +197,7 @@ GEM
       mime-types
       mimemagic (~> 0.3.0)
       terrapin (~> 0.6.0)
-    pg (1.5.6)
+    pg (1.5.7)
     premailer (1.20.0)
       addressable
       css_parser (>= 1.12.0)
