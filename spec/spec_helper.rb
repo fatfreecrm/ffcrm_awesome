@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'bundler'
+require 'sprockets/railtie'
 require 'rails/all'
 
 Bundler.require :default, :development
