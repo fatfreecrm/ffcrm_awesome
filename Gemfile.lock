@@ -129,8 +129,9 @@ GEM
     country_select (11.0.0)
       countries (> 6.0, < 9.0)
     crass (1.0.6)
-    css_parser (1.22.0)
+    css_parser (3.0.0)
       addressable
+      ssrf_filter (~> 1.5)
     date (3.5.1)
     devise (4.9.4)
       bcrypt (~> 3.0)
@@ -372,6 +373,7 @@ GEM
       actionpack (>= 6.1)
       activesupport (>= 6.1)
       sprockets (>= 3.0.0)
+    ssrf_filter (1.5.0)
     stringio (3.1.7)
     temple (0.10.4)
     thor (1.4.0)
